@@ -376,3 +376,10 @@
 .contact-list li p {
   margin: 0.1rem 0 0 0;
 }
+
+
+.barras {
+  color: greenyellow;
+  border-radius: 10px; 
+
+}
